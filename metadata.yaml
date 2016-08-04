@@ -1,0 +1,55 @@
+_repo: Wives-and-Daughters_4274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Mills, Cotton Mather
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Stevenson, Elizabeth
+    - Gaskell, Mrs.
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: "Wives and Daughters is a novel by Elizabeth Gaskell, first published\
+  \ in the Cornhill Magazine as a serial from August 1864 to January 1866. It was\
+  \ partly written whilst Gaskell was staying with the salon hostess Mary Elizabeth\
+  \ Mohl at her home on the Rue de Bac in Paris. When Mrs Gaskell died suddenly in\
+  \ 1865, it was not quite complete, and the last section was written by Frederick\
+  \ Greenwood.\nThe story is about Molly Gibson, the only daughter of a widowed doctor\
+  \ living in a provincial English town in the 1830s.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4274'
+  wikidata: Q2453239
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Stepfamilies -- Fiction'
+- !lcsh 'Children of physicians -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: Wives and Daughters
+url: http://www.gutenberg.org/ebooks/4274
+wikipedia:
+- https://fr.wikipedia.org/wiki/Wives_and_Daughters,_an_Every-Day_Story
+- https://ar.wikipedia.org/wiki/%D8%B2%D9%88%D8%AC%D8%A7%D8%AA_%D9%88_%D8%A8%D9%86%D8%A7%D8%AA
+- https://cs.wikipedia.org/wiki/Man%C5%BEelky_a_dcery
+- https://pl.wikipedia.org/wiki/Wives_and_Daughters
+- https://en.wikipedia.org/wiki/Wives_and_Daughters
+- https://es.wikipedia.org/wiki/Esposas_e_hijas
+- https://ru.wikipedia.org/wiki/%D0%96%D1%91%D0%BD%D1%8B_%D0%B8_%D0%B4%D0%BE%D1%87%D0%B5%D1%80%D0%B8
+- https://sv.wikipedia.org/wiki/Hustrur_och_d%C3%B6ttrar
