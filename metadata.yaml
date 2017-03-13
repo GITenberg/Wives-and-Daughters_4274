@@ -1,5 +1,8 @@
 _repo: Wives-and-Daughters_4274
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaskell, Elizabeth Cleghorn
@@ -21,6 +24,8 @@ description: "Wives and Daughters is a novel by Elizabeth Gaskell, first publish
   \ 1865, it was not quite complete, and the last section was written by Frederick\
   \ Greenwood.\nThe story is about Molly Gibson, the only daughter of a widowed doctor\
   \ living in a provincial English town in the 1830s.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4274#Wives-and-Daughters
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
